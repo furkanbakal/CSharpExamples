@@ -1,0 +1,16 @@
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.csprojAssemblyReference.cache
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.AssemblyInfoInputs.cache
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.AssemblyInfo.cs
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.exe
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.deps.json
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.runtimeconfig.json
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.runtimeconfig.dev.json
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.dll
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\ref\GameManagementDemo.dll
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\bin\Debug\net5.0\GameManagementDemo.pdb
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.dll
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\ref\GameManagementDemo.dll
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.pdb
+C:\Users\furkanb\source\repos\examples\GameManagementDemo\obj\Debug\net5.0\GameManagementDemo.genruntimeconfig.cache
