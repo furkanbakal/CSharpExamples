@@ -1,0 +1,97 @@
+﻿@model IEnumerable<CrudOperation.Models.Item>
+
+    <div class="container p-3">
+        <div class="row pt-4">
+            <div class="col-6">
+                <h2 class="text-primary">Borrowed Item List</h2>
+            </div>
+            <div class="col-6 text-right">
+                <a asp-controller="Item" asp-action="Create" class="btn btn-primary">Create new Item</a>
+            </div>
+        </div>
+        <br />
+
+       @if(Model.Count() > 0)
+            {
+                <table class="table table-bordered table-striped" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>
+                                Item Name
+                            </th>
+                            <th>
+                                Borrower
+                            </th>
+                            <th>
+                                Lender
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var item in Model)
+                {
+                    <tr>
+                        <td width="30%">@item.ItemName</td>
+                        <td width="30%">@item.Borrower</td>
+                        <td width="30%">@item.Lender</td>
+                    </tr>
+                }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>No items created yet</p>
+            }
+
+    </div>
+
+
+
+
+
+@*<form method="post" asp-action="Create">
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-black-50 pl-3">Add Item</h2>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="form-group row">
+                    <div class="col-4">
+                        ITEM NAME
+                    </div>
+                    <div class="col-4">
+                        BORROWER
+                    </div>
+                    <div class="col-4">
+                        LENDER
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        TEXBOX HERE
+                    </div>
+                    <div class="col-4">
+                        TEXTBOX HERE 
+                    </div>
+                    <div class="col-4">
+                        TEXTBOX HERE
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-8 text-center row">
+                        <div class="col">
+                            CREATE BUTTON
+                        </div>
+                        <div class="col">
+                            GO BACK BUTTON
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>*@
+
+ 
